@@ -21,3 +21,15 @@ kdf = Kleaner(df)
 # get the healthiness of the kaggle.csv file
 kdf.healthiness()
 ```
+
+
+# NOTES
+
+
+* Completeness - Referring to missing key information
+    - % of nulll values of a column
+    
+    
+* Consistency - Referring to single representation of data  
+    - % of diversity of value
+       
