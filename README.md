@@ -18,6 +18,6 @@ df = pd.read_csv('kaggle.csv')
 
 kdf = Kleaner(df)
 
-# get the healthiness of the Kaggle
+# get the healthiness of the kaggle.csv file
 kdf.healthiness()
 ```
